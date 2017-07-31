@@ -10,7 +10,12 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * test
+ * 
+ * @author SYSTEM
+ *
+ */
 public class ListViewActivity extends Activity {
 
     private String[] data = {"Apple", "Orange", "Watermelon", "Pear"};
